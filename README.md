@@ -2,7 +2,7 @@
 - 👀 I’m interested in software design, developing solutions for cloud based architecture.
 - 🌱 I’m currently learning english, spanish as new tools for communicating with uman beings. much more skilled on java, though :-)
 - 💞️ I fancy DDD and old projects style , plain old server side java with dynamic frontend layer.
-- 📫 How to reach me? just text me at smilazzo@gmail.com 
+- 📫 How to reach me? just text me at milazzosa@gmail.com 
 
 <!---
 smilazzo-lab/smilazzo-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
