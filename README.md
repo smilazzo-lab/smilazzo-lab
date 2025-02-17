@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smilazzo-lab, a professional software engineer of 43. I graduetad as a information technology engineer.
+- 👋 Hi, I’m @smilazzo-lab, a professional software engineer. I graduated as a information technology engineer.
 - 👀 I’m interested in software design
 - 🌱 I’m currently learning english, spanish as new tools for communicating with uman beings. much more skilled on java, though :-)
 - 💞️ ...
